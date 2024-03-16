@@ -1,0 +1,100 @@
+[
+  {
+    "karakter_adi": "Geralt of Rivia",
+    "sehir": "Rivia",
+    "tur": "Witcher",
+    "yetenekler": [
+      {"yetenek_adi": "Quenn", "ozellik": "Bir koruma kalkanı aktifleştirir ve gelen saldırıları önler. İsabetli saldırı olursa adrenalin yükü biriktirir", "savunma": true},
+      {"yetenek_adi": "Aard", "ozellik": "Alanı etkileyecek kadar şok dalgası tetikler, düşmanları sersemletir", "savunma": true},
+      {"yetenek_adi": "İgni", "ozellik": "Alanı etkileyecek kadar Alev püskürtür. Düşmana yakma hasarı verir", "savunma": true},
+      {"yetenek_adi": "Yrden", "ozellik": "Büyü tuzağı oluşturur ve düşman alandayken büyü kullanamaz", "savunma": true},
+      {"yetenek_adi": "Axii", "ozellik": "Düşmanın zihnine girer, sersemletir. Sersemletilmiş düşman kritik vuruş hasarı alır", "savunma": false}
+    ]
+  },
+  {
+    "karakter_adi": "Yennefer of Vengerberg",
+    "sehir": "Vengerberg",
+    "tur": "Büyücü",
+    "yetenekler": [
+      {"yetenek_adi": "Aard", "ozellik": "Alanı etkileyecek kadar şok dalgası tetikler, düşmanları sersemletir", "savunma": true},
+      {"yetenek_adi": "Yrden", "ozellik": "Büyü tuzağı oluşturur ve düşman alandayken büyü kullanamaz", "savunma": true},
+      {"yetenek_adi": "İgni", "ozellik": "Alanı etkileyecek kadar Alev püskürtür. Düşmana yakma hasarı verir", "savunma": true},
+      {"yetenek_adi": "Telekinezi", "ozellik": "Nesneleri telekinezi ile kontrol eder", "savunma": false}
+    ]
+  },
+  {
+    "karakter_adi": "Ciri",
+    "sehir": "Cintra",
+    "tur": "Witcher",
+    "yetenekler": [
+      {"yetenek_adi": "Hızlı Hareket", "ozellik": "Çok hızlı hareket eder, düşmanları şaşırtabilir", "savunma": false},
+      {"yetenek_adi": "Kılıç Kullanımı", "ozellik": "Ustaca kılıç kullanır, hızlı ve keskin saldırılar yapabilir", "savunma": true},
+      {"yetenek_adi": "Teleportasyon", "ozellik": "Belirli bir mesafeye teleport olabilir", "savunma": false},
+      {"yetenek_adi": "Ard", "ozellik": "Zihinsel yetenekleriyle düşmanları etkiler", "savunma": false}
+    ]
+  },
+  {
+    "karakter_adi": "Triss Merigold",
+    "sehir": "Maribor",
+    "tur": "Büyücü",
+    "yetenekler": [
+      {"yetenek_adi": "Alev Kontrolü", "ozellik": "Alevi kontrol eder, düşmanlara alev püskürtür", "savunma": true},
+      {"yetenek_adi": "Telepati", "ozellik": "Zihinsel bağlantı kurar, düşmanların düşüncelerini okur", "savunma": false},
+      {"yetenek_adi": "Kalkan Büyüsü", "ozellik": "Koruyucu bir enerji kalkanı yaratır", "savunma": true}
+    ]
+  },
+  {
+    "karakter_adi": "Jaskier",
+    "sehir": "Oxenfurt",
+    "tur": "Şarkıcı",
+    "yetenekler": [
+      {"yetenek_adi": "Şarkı Söyleme", "ozellik": "Güzel şarkılar söyleyebilme yeteneği", "savunma": false},
+      {"yetenek_adi": "Entrikalar", "ozellik": "Politik entrikalarda becerikli olma yeteneği", "savunma": false}
+    ]
+  },
+  {
+    "karakter_adi": "Eskel",
+    "sehir": "Kaer Morhen",
+    "tur": "Witcher",
+    "yetenekler": [
+      {"yetenek_adi": "Kılıç Ustalığı", "ozellik": "Ustaca kılıç kullanma yeteneği", "savunma": true},
+      {"yetenek_adi": "Quenn", "ozellik": "Bir koruma kalkanı aktifleştirir ve gelen saldırıları önler. İsabetli saldırı olursa adrenalin yükü biriktirir", "savunma": true}
+    ]
+  },
+  {
+    "karakter_adi": "Vesemir",
+    "sehir": "Kaer Morhen",
+    "tur": "Witcher",
+    "yetenekler": [
+      {"yetenek_adi": "Kılıç Ustalığı", "ozellik": "Ustaca kılıç kullanma yeteneği", "savunma": true},
+      {"yetenek_adi": "Quenn", "ozellik": "Bir koruma kalkanı aktifleştirir ve gelen saldırıları önler. İsabetli saldırı olursa adrenalin yükü biriktirir", "savunma": true}
+    ]
+  },
+  {
+    "karakter_adi": "Keira Metz",
+    "sehir": "Vengerberg",
+    "tur": "Büyücü",
+    "yetenekler": [
+      {"yetenek_adi": "Telekinezi", "ozellik": "Nesneleri telekinezi ile kontrol eder", "savunma": false},
+      {"yetenek_adi": "Alev Kontrolü", "ozellik": "Alevi kontrol eder, düşmanlara alev püskürtür", "savunma": true}
+    ]
+  },
+  {
+    "karakter_adi": "Regis",
+    "sehir": "Toussaint",
+    "tur": "Vampir",
+    "yetenekler": [
+      {"yetenek_adi": "Kan İçme", "ozellik": "Düşmanın kanını içerek kendini iyileştirme yeteneği", "savunma": true},
+      {"yetenek_adi": "Hızlı Hareket", "ozellik": "Çok hızlı hareket eder, düşmanlara karşı avantaj sağlar", "savunma": false}
+    ]
+  },
+  {
+    "karakter_adi": "Eredin Bréacc Glas",
+    "sehir": "Tir ná Lia",
+    "tur": "Aen Elle Elf",
+    "yetenekler": [
+      {"yetenek_adi": "Yıldırım Büyüsü", "ozellik": "Yıldırım çağırarak düşmanlara hasar verme yeteneği", "savunma": true},
+      {"yetenek_adi": "Kılıç Ustalığı", "ozellik": "Ustaca kılıç kullanma yeteneği", "savunma": true}
+    ]
+  }
+]
