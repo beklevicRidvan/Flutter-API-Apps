@@ -1,16 +1,11 @@
-# api_boss_ornek
+# RICK And Morty App
 
-A new Flutter project.
+## Rick and Morty Uygulaması Ekran Görüntüleri
 
-## Getting Started
+| Resim 1 | Resim 2 |
+|---------|---------|
+| ![Resim 1](https://github.com/beklevicRidvan/Flutter-API-Apps/blob/main/RickandMortyApp/rick%26morty_assets/rick1.png?raw=true) | ![Resim 2](https://github.com/beklevicRidvan/Flutter-API-Apps/blob/main/RickandMortyApp/rick%26morty_assets/rick2.png?raw=true) |
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Resim 3 | Resim 4 |
+|---------|---------|
+| ![Resim 3](https://github.com/beklevicRidvan/Flutter-API-Apps/blob/main/RickandMortyApp/rick%26morty_assets/rick3.png?raw=true) | ![Resim 4](https://github.com/beklevicRidvan/Flutter-API-Apps/blob/main/RickandMortyApp/rick%26morty_assets/rick4.png?raw=true) |
