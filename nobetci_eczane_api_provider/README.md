@@ -1,16 +1,9 @@
-# nobetci_eczane_api_provider
+# NOBETCİ ECZANE UYGULAMASI 
 
-A new Flutter project.
+- Bu uygulama dio paketi kullanılarak, restful api'den il ve ilçelere göre nöbetçi eczane verileri çekilip tasarlanmıştır.
 
-## Getting Started
+## Nöbetçi Eczane Uygulaması Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Resim 1 | Resim 2 | Resim 3 |
+|---------|---------|---------|
+| ![Resim 1](https://github.com/beklevicRidvan/Flutter-API-Apps/blob/main/nobetci_eczane_api_provider/eczane_assets/eczane1.png?raw=true) | ![Resim 2](https://github.com/beklevicRidvan/Flutter-API-Apps/blob/main/nobetci_eczane_api_provider/eczane_assets/eczane2.png?raw=true) | ![Resim 3](https://github.com/beklevicRidvan/Flutter-API-Apps/blob/main/nobetci_eczane_api_provider/eczane_assets/eczane3.png?raw=true) |
